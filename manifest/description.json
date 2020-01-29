@@ -1,0 +1,25 @@
+{
+    "Event": {
+        "title": "Tauranga StartUp Weekend 2015",
+        "description": "Venture Centres Second Startup Weekend",
+        "feature": "0337A0EA-3217-4997-A86A-58004BBB1FC9",
+        "photographs": [
+            {
+                "id": "DB29112E-C73C-498A-9947-BBE8BC1BF6F3",
+                "title": "Bets Concept Diagram",
+                "description": "A buch of stuff",
+                "image": "tgasw/TGASW_Diagram_1.jpg",
+                "active": true
+            },
+            {
+                "id": "5D81FE1D-1DB7-4EFA-B3BE-EE3D4DE1E04B678",
+                "title": "Bets Concept Diagram 2",
+                "description": "A bunch of stuff 2",
+                "image": "tgasw/TGASW_Diagram_2.jpg",
+                "active": false
+            }
+        ],
+        "videos": [],
+        "documents": []
+    }
+}
